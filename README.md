@@ -4,10 +4,8 @@ Esse é um bootcamp gratuito realizado pela empresa [dio.me](https://www.dio.me/
 
 ## Tabela de conteúdos
 
-- [Visão geral](#visao-geral)
+- Visão geral
   - [Conceitos fundamentais de IA](#conceitos-fundamentais)
-
-## Conteúdo
 
 ## Conceitos fundamentais de IA
 
