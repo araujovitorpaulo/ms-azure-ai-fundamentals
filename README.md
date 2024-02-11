@@ -27,5 +27,9 @@ Esse é um bootcamp gratuito realizado pela instituição de ensino on-line [dio
 - Ao treinar uma IA para reconhecer um determinado objeto, é preciso treiná-la para entender o que é aquele objeto e o que **não é** aquele objeto
 
 ### Cargas de trabalho
-- Cargas de trabalho é o nome dado às tarefas ou atividades que sistemas de inteligência artificial são capazes de realizar. Elas variam de acordo com complexidade, escopo, capacidade do sistema e necessidade.
-- Um exemplo válido é a possibilidade de interpretação e validação da linguagem escrita ou falada (análise e classificação de e-mails em spams e não-spams; ofensividade dos usuários nas redes sociais)
+- Carga de trabalho é o nome dado às tarefas ou atividades que sistemas de inteligência artificial são capazes de realizar. Elas variam de acordo com complexidade, escopo, capacidade do sistema e necessidade
+- Processamento de linguagem natural, desde interpretação até à validação da linguagem escrita ou falada (análise e classificação de e-mails em spams e não-spams; ofensividade dos usuários nas redes sociais)
+- Inteligência de documentos, conceito que se refere à capacidade de entender e extrair informação de documentos digitais de forma automática. Ex.: interpretação de texto, reconhecimento de padrões, extração de entendidas e relacionamentos etc
+- Mineração de conhecimento, sendo a extração de informações a partir de grandes conjuntos de dados (datasets). Visando identificar tendências, insights e conhecimentos ocultos nos dados.
+- IA generativa, que se refere à sistemas com a capacidade de criar, gerar ou produzir novos conteúdos que são "indistinguíveis" de criações humanas. (Ex.: ChatGPT)
+
