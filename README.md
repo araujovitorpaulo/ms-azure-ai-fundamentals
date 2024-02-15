@@ -33,3 +33,28 @@ Esse é um bootcamp gratuito realizado pela instituição de ensino on-line [dio
 - Mineração de conhecimento, sendo a extração de informações a partir de grandes conjuntos de dados (datasets). Visando identificar tendências, insights e conhecimentos ocultos nos dados.
 - IA generativa, que se refere à sistemas com a capacidade de criar, gerar ou produzir novos conteúdos que são "indistinguíveis" de criações humanas. (Ex.: ChatGPT)
 
+## Ferramentas
+
+### Versionamento de código
+- Sistemas de Controle de Versão: controlam as versões de um arquivo ao longo do tempo.
+  - Registra o histórico de atualização do arquivo;
+  - Gerenciando alterações, data, autor;
+  - Organiza, controla e garante segurança.
+- Os VCS (Version Control System) podem ser classificados como Centralizado e Distribuído.
+  - Centralizado: Apenas um servidor contendo todos os arquivos do projeto. Ex.: CVS e Subversion.
+  - Distribuído: Surgiu para solucionar o caso dos sistemas centralizados onde, caso o servidor ficasse inacessível, você perde acesso total ao seu projeto. Nele, a versão também é mantida de forma local, possibilitando alterações mesmo com o server offline. (Ex.: Git e Mercurial)
+    - Cada clone é um backup;
+    - Possibilita o trabalho de forma flexível;
+    - Possível realizar adições, alterações e exclusões sem dispor de conexão à rede.
+### Git
+  - Criado por Linus Torvalds (Linux) e sua equipe
+  - Ferramenta gratuita e de código aberto
+  - Trabalha com ramificações (branching) e fusões (merging)
+    - <code>git init </code>: inicia um repositório local;
+    - <code>git clone</code>: clona um repositório existente na web;
+    - <code>git pull</code>: traz as últimas alterações subidas na web para seu repo local;
+    - <code>git commit</code>: "oficializa" suas alterações locais;
+    - <code>git push</code>: sobe as alterações locais para a web.
+### GitHub
+- Criado por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon
+- Plataforma de hospedagem de código para controle de versão com o Git
