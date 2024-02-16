@@ -50,7 +50,7 @@ Esse é um bootcamp gratuito realizado pela instituição de ensino on-line [dio
   - Criado por Linus Torvalds (Linux) e sua equipe
   - Ferramenta gratuita e de código aberto
   - Trabalha com ramificações (branching) e fusões (merging)
-    - <code>git init </code>: inicia um repositório local;
+    - <code>git init</code>: inicia um repositório local;
     - <code>git clone</code>: clona um repositório existente na web;
     - <code>git pull</code>: traz as últimas alterações subidas na web para seu repo local;
     - <code>git commit</code>: "oficializa" suas alterações locais;
